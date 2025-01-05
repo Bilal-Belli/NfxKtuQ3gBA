@@ -1,16 +1,20 @@
-# tp2weither
+# Weather Mobile App
 
-A new Flutter project.
+> Une application mobile de meteo interactif permettant aux utilisateurs de chercher leurs villes et afficher la meteo de la semaine.
 
-## Getting Started
+## Manuelle d'installation
+### Prérequis
+1. Flutter SDK (version 3.0 ou supérieure)
+2. Dart SDK
+3. Android Studio ou VS Code
+4. Émulateur Android/iOS ou appareil physique
 
-This project is a starting point for a Flutter application.
+### Installation
+1. Cloner le repository `git clone https://github.com/Bilal-Belli/NfxKtuQ3gBA.git` puis `cd NfxKtuQ3gBA`
+2. Installer les dépendances `flutter pub get`
+3. Lancer l'application `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+<div align="center">
+  <video src='https://github.com/user-attachments/assets/d4e378d5-99db-4795-b2eb-39a6631f7902' width="180" />
+</div>
